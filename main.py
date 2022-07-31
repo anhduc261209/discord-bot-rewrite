@@ -232,4 +232,4 @@ async def editimg(interaction : discord.Interaction):
     
     await interaction.response.send_message(view = view)
     
-client.run('OTk5ODU1NTk4NTc1MzA0NzU1.G0UI95.q4IbBjtB3vIlxZWxsT7kJ7Z51PW-ufOdb7PjB4')
+client.run(NO TOKEN 4 U)
